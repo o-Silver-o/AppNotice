@@ -8,18 +8,18 @@
   "startupNotice": {
     "show": true,
     "title": "🎉 v1.2 업데이트 완료 안내",
-    "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/main/BirdieMate_notice_260308.md"
+    "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/refs/heads/main/BirdieMate/notice_260308.md"
   },
   "noticeList": [
     {
       "title": "v1.2 업데이트 완료 안내 (나의 골프백 기능 개선 등)",
       "date": "2026.03.08",
-      "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/refs/heads/main/BirdieMate_notice_260308.md"
+      "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/refs/heads/main/BirdieMate/notice_260308.md"
     },
     {
       "title": "서버 정기 점검 안내 (완료)",
       "date": "2026.03.05",
-      "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/refs/heads/main/BirdieMate_notice_260305.md"
+      "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/refs/heads/main/BirdieMate/notice_260305.md.md"
     },
     {
       "title": "버디 메이트 공식 오픈 이벤트 안내",
