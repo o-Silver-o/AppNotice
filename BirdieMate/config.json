@@ -8,13 +8,13 @@
   "startupNotice": {
     "show": false,
     "title": "v1.0.0 업데이트 안내",
-    "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/main/BirdieMate/notices/notice_260308.md"
+    "mdUrl": "https://o-silver-o.github.io/AppNotice/BirdieMate/notices/notice_260308.md"
   },
   "noticeList": [
     {
       "title": "v1.0.0 업데이트 안내",
       "date": "2026-03-08",
-      "mdUrl": "https://raw.githubusercontent.com/o-Silver-o/AppNotice/main/BirdieMate/notices/notice_260308.md"
+      "mdUrl": "https://o-silver-o.github.io/AppNotice/BirdieMate/notices/notice_260308.md"
     }
   ],
   "wittyTexts": [
